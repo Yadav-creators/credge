@@ -353,3 +353,10 @@ h1.event-heading {
     border: 1px solid #ccc;
     border-top: none;
   }
+
+  h6.class-name {
+    width: max-content;
+    border-radius: 5px;
+    background: #E2E5ED;
+    padding: 4px 10px;
+}
