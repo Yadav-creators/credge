@@ -1,0 +1,328 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+caption {
+    font-family: 'Inter', sans-serif;
+}
+
+p,
+a {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.container-xxl.main-container-ud {
+    padding: 0 60px;
+}
+
+.heading-section {
+    color: #0C1327;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.card.utk-card-main {
+    border: none;
+}
+
+.card.utk-card-main img {
+    width: 65px;
+    margin: 0px auto;
+}
+
+.utk-card-main .card-body p.card-text {
+    color: #7A7A89;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    text-transform: capitalize;
+}
+
+.utk-card-main .card-body .card-title {
+    color: #0C1327;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.utk-card-main .card-body {
+    padding: 5px;
+}
+
+.fields-red {
+    color: #FF7E84;
+    position: relative;
+}
+
+.fields-red::after {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    background: url(./images/line-shape.5ab619cc708231a39fcf\ 3.jpg);
+    bottom: -50px;
+    left: 0;
+    background-color: transparent;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
+
+.internship-feilds-main .columm-utk-feilds p {
+    color: #0C1327;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 50px;
+    text-transform: capitalize;
+    margin: 0px;
+}
+
+.Black-Bg-text {
+    color: #FFF;
+    text-align: center;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 42px;
+    text-transform: capitalize;
+}
+
+.black-bg-text-main {
+    background: #0C1427;
+}
+
+button.btn.new-apply-btn {
+    border-radius: 100px;
+    background: #FF7E84;
+    color: #fff;
+    padding: 9px 39px;
+}
+
+.intern-partner-heading {
+    color: #000;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.intern-partner-paragraph {
+    color: #0C1327;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+    text-transform: capitalize;
+}
+
+
+.partner-red {
+    color: #FF7E84;
+    position: relative;
+    z-index: 1;
+}
+
+.partner-red:after {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    background: url(./images/line-shape.5ab619cc708231a39fcf_3-removebg-preview.png);
+    bottom: -50px;
+    left: 0;
+    background-color: transparent;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
+
+.apply-button-partner {
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    text-transform: capitalize;
+    border-radius: 5px;
+    background: #FF7E84;
+}
+
+.apply-button-partner:hover {
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    text-transform: capitalize;
+    border-radius: 5px;
+    background: #FF7E84;
+}
+
+.main-internship-partners {
+    background: url(./images/image\ 27.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.col-lg-6.images-partner-utk img {
+    width: 150px;
+    margin: 0 auto;
+}
+
+.new-howitworks-heading {
+    position: relative;
+    z-index: 1;
+}
+
+.new-howitworks-heading:after {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    background: url(./images/line-shape.5ab619cc708231a39fcf_3-removebg-preview.png);
+    bottom: -50px;
+    left: 0;
+    background-color: transparent;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
+
+.item-main-howitworks {
+    display: flex;
+    align-items: self-start;
+    gap: 10px;
+}
+
+.number h1 {
+    margin: 0px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.number {
+    padding: 14px 24px;
+    background: url(./images/Ellipse\ 17.png);
+    background-size: cover;
+    background-position: center;
+    margin-top: -10px;
+}
+
+.item-howitworks h3 {
+    color: #0C1327;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.item-howitworks p {
+    color: #7A7A89;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    text-transform: capitalize;
+}
+
+.text-part-howitworks {
+    position: relative;
+    z-index: 1;
+}
+
+.text-part-howitworks:after {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    background: url(./images/Line\ 26.svg);
+    bottom: 0px;
+    left: 42px;
+    background-color: transparent;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
+
+.benifits-new-section .card,
+.commitment-section .card {
+    flex-direction: row;
+}
+
+.benifits-new-section .card1.card img {
+    max-width: 100px;
+    height: 100%;
+    width: 100px;
+}
+
+.benifits-new-section .card1.card.align-items-center {
+    padding: 20px 30px;
+    border-radius: 20px;
+    border: 1px solid #EFF2F9;
+    background: #FFF;
+    box-shadow: 10px 15px 14px 0px rgba(71, 99, 125, 0.10), 3px 4px 5px 0px rgba(71, 99, 125, 0.11);
+}
+
+.commitment-heading {
+    color: #0C1327;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.commitment-paragraph {
+    color: #7A7A89;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    text-transform: capitalize;
+    margin: 0px;
+    padding: 0px 0px 25px 0px;
+}
+
+.commitment-button {
+    border-radius: 5px;
+    background: #FF7E84;
+    padding: 16px 28px;
+    text-decoration: none;
+}
+
+.commitment-button span {
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+
+.commitment-section .card{
+    border: none;
+}
+
+.commitment-section .card .card-title {
+    color: #0C1327;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+}

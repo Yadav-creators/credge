@@ -422,3 +422,14 @@ button.sign-in-mentor {
     border: none;
     border-radius: 28px;
 }
+
+.university-logos-container-bs .img {
+    max-width: 100%;
+    width: 15%;
+    margin-bottom: 1rem;
+}
+.certification-courses-badges{
+    background-image: url('./assets/certification-b-bg.png');
+    background-size: initial;
+    background-repeat: no-repeat;
+}
