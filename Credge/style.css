@@ -1,0 +1,163 @@
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: center;
+}
+
+h1,h2,h3,h4,h5,h6 , caption{
+font-family: 'Inter', sans-serif;
+}
+p , a{
+    font-family: 'DM Sans', sans-serif;
+}
+
+h1.hero-banner-main-heading {
+    font-size: 74px;
+    font-weight: bold;
+}
+
+.layouthero-banner .container-xxl:last-child {
+    min-height: 718px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.layouthero-banner {
+    background-image: url(./assets/hero-img.png);
+    background-size: initial;
+    background-repeat: no-repeat;
+}
+.sub-heading-hero {
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+a.hero-cta-button {
+    font-size: 24px;
+    color: white;
+    background: #FF7E84;
+    width: max-content;
+    padding: 5px 2rem;
+    border-radius: 26px;
+    text-decoration: none;
+    margin-top: 2rem;
+}
+
+.sub-heading-hero {
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin: 1rem 0;
+}
+a.nav-link {
+    font-size: 19px;
+    color: black;
+    margin: 2rem 1rem;
+    font-weight: 500;
+}
+
+
+.what-we-do-offer {
+    background-image: url(./assets/our-offer.png);
+    background-size: initial;
+    background-repeat: no-repeat;
+    min-height: 711px;
+    display: flex;
+    align-items: center;
+}
+
+p.our-offer-paragraph {
+    padding: 1rem 0;
+}
+
+a.out-offer-cta {
+    color: white;
+    background: #FF7E84;
+    padding: 12px 2rem;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Inter';
+    border-radius: 8px;
+}
+
+
+p.our-offer-paragraph {
+    padding: 1rem 0;
+    max-width: 80%;
+    color: #7A7A89;
+}
+
+.our-offer-card {
+    max-width: 45%;
+}
+h2.card-our-offer-hrading {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+p.our-offer-description-card {
+    font-size: 16px;
+    color: #7A7A89;
+    font-weight: 500;
+}
+
+.our-offer-card {
+    max-width: 45%;
+    padding: 1rem 4rem 1rem 2rem;
+    background: white;
+    border-radius: 16px;
+}
+p.our-offer {
+    color: #30BEAD;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+section.university-partner.container-xxl {
+    padding-top: 5rem;
+    padding-bottom: 5rem ;
+}
+
+p.university-section-description.text-center.w-50.m-auto {
+    padding-bottom: 2rem;
+    color: #7A7A89;
+    padding-top: 1rem;
+    font-size: 18px;
+    font-weight: 400;
+}
+.university-logos-container .img {
+    max-width: 100%;
+    width: 17%;
+    margin-bottom: 1rem;
+}
+
+h4.universty-top-name.text-center {
+    font-size: 18px;
+    margin-bottom: 1rem;
+    color: #30BEAD;
+}
+.our-expert{
+    background-image: url('./assets/expert-bg.png');
+    background-size: initial;
+    background-repeat: no-repeat;
+    
+}
+section.our-expert {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+h1.university-section-heading.text-center {
+    padding-bottom: 3rem;
+}
+.our-experts-cards .card {
+    padding: 0;
+    border: none;
+    background: transparent;
+}
+.our-experts-cards .card-body {
+    background: white;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+}

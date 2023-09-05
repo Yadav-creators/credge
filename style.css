@@ -1,0 +1,355 @@
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: center;
+}
+
+li, h1,h2,h3,h4,h5,h6 , caption{
+font-family: 'Inter', sans-serif;
+}
+p , a{
+    font-family: 'DM Sans', sans-serif;
+}
+
+h1.hero-banner-main-heading {
+    font-size: 74px;
+    font-weight: bold;
+}
+
+.layouthero-banner .container-xxl:last-child {
+    min-height: 718px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.layouthero-banner {
+    background-image: url(./assets/hero-img.png);
+    background-size: initial;
+    background-repeat: no-repeat;
+}
+.sub-heading-hero {
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+a.hero-cta-button {
+    font-size: 24px;
+    color: white;
+    background: #FF7E84;
+    width: max-content;
+    padding: 5px 2rem;
+    border-radius: 26px;
+    text-decoration: none;
+    margin-top: 2rem;
+}
+
+.sub-heading-hero {
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin: 1rem 0;
+}
+a.nav-link {
+    font-size: 19px;
+    color: black;
+    margin: 2rem 1rem;
+    font-weight: 500;
+}
+
+
+.what-we-do-offer {
+    background-image: url(./assets/our-offer.png);
+    background-size: initial;
+    background-repeat: no-repeat;
+    min-height: 711px;
+    display: flex;
+    align-items: center;
+}
+
+p.our-offer-paragraph {
+    padding: 1rem 0;
+}
+
+a.out-offer-cta {
+    color: white;
+    background: #FF7E84;
+    padding: 12px 2rem;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Inter';
+    border-radius: 8px;
+}
+
+
+p.our-offer-paragraph {
+    padding: 1rem 0;
+    max-width: 80%;
+    color: #7A7A89;
+}
+
+.our-offer-card {
+    max-width: 45%;
+}
+h2.card-our-offer-hrading {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+p.our-offer-description-card {
+    font-size: 16px;
+    color: #7A7A89;
+    font-weight: 500;
+}
+
+.our-offer-card {
+    max-width: 45%;
+    padding: 1rem 4rem 1rem 2rem;
+    background: white;
+    border-radius: 16px;
+}
+p.our-offer {
+    color: #30BEAD;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+section.university-partner.container-xxl {
+    padding-top: 5rem;
+    padding-bottom: 5rem ;
+}
+
+p.university-section-description.text-center.w-50.m-auto {
+    padding-bottom: 2rem;
+    color: #7A7A89;
+    padding-top: 1rem;
+    font-size: 18px;
+    font-weight: 400;
+}
+.university-logos-container .img {
+    max-width: 100%;
+    width: 17%;
+    margin-bottom: 1rem;
+}
+
+h4.universty-top-name.text-center {
+    font-size: 18px;
+    margin-bottom: 1rem;
+    color: #30BEAD;
+}
+.our-expert{
+    background-image: url('./assets/expert-bg.png');
+    background-size: initial;
+    background-repeat: no-repeat;
+    
+}
+section.our-expert {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+h1.university-section-heading.text-center {
+    padding-bottom: 3rem;
+}
+.our-experts-cards .card {
+    padding: 0;
+    border: none;
+    background: transparent;
+}
+.our-experts-cards .card-body {
+    background: white;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+}
+
+section.our-education {
+    min-height: 711px;
+    display: flex;
+    align-items: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+p.our-offer {
+    text-transform: capitalize;
+   
+}
+
+a.out-offer-cta {
+    text-transform: capitalize;
+}
+
+li.checkpoint-oofer {
+    font-size: 18px;
+    font-weight: 500;
+    list-style: none;
+}
+
+ul.checkpoint-the-offers {
+    padding: 0;
+}
+
+li.checkpoint-oofer span {
+    margin-right: 8px;
+}
+
+.university-logos-container-bs .img {
+    max-width: 100%;
+    width: 15%;
+    margin-bottom: 1rem;
+}
+
+.row.aproach-counting-item {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.aproach-counting-items {
+    width: 20%;
+}
+h3.count-numbers-aproach,p.counting-discription {
+    font-weight: 600;
+}
+
+.layout-our-aproach{
+    background-image: url('./assets/our-aproach-bg.png');
+    background-size: initial;
+    background-repeat: no-repeat;
+    background-position-y: -84%;
+}
+.row.aproach-counting-item {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    background: white;
+    padding: 1rem;
+    border-radius: 8PX;
+    box-shadow: 0px 15px 80px 0px rgba(67, 106, 141, 0.10);
+}
+
+h3.count-numbers-aproach {
+    color: #30BEAD;
+}
+
+.our-aproach-content {
+    padding: 7rem 0;
+}
+
+.tab button {
+    text-transform: capitalize;
+}
+
+.tab button {
+    color: white;
+    background: #FF7E84;
+    padding: 6px 1rem;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Inter';
+    border-radius: 8px;
+    border: none;
+}
+.tab-events {
+    width: max-content;
+}
+
+h1.event-heading {
+    width: max-content;
+}
+
+.our-experts-cards.row.gx-5.justify-content-evenly .card {
+    width: 23%;
+}
+
+.event-card-item {
+    width: 23%;
+}
+
+.events-card-items {
+    row-gap: 32px;
+}
+
+.event-card-item .card {
+    border: none;
+}
+
+
+.event-card-item .card-body {
+    box-shadow: 0px 1.83129px 3.11319px 0px rgba(184, 52, 10, 0.01), 0px 8.05767px 6.44614px 0px rgba(184, 52, 10, 0.02), 0px 19.77792px 12.85565px 0px rgba(184, 52, 10, 0.03), 0px 38.09081px 25.19853px 0px rgba(184, 52, 10, 0.03), 0px 64.09511px 46.33161px 0px rgba(184, 52, 10, 0.04), 0px 98.8896px 79.11168px 0px rgba(184, 52, 10, 0.05);
+    background: white;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+}
+
+.event-card-item h5.card-title {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.event-card-item p.card-text {
+    margin-bottom: 5px;
+}
+
+span.filled-text-bs {
+    font-weight: 600;
+    color: #30BEAD;
+    margin-left: 8px;
+}
+span.event-card-icon {
+    margin-right: 6px;
+}
+
+.event-card-item p.card-text {
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+h1.event-heading {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.event-layout-{
+    background-image: url('./assets/event-bg.png');
+    background-size: initial;
+    background-repeat: no-repeat;
+    padding: 7rem 0;
+}
+
+.event-card-item p.card-text , .event-card-item h5.card-title {
+    text-align: left;
+}
+
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+   
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab button {
+    transition: 0.3s;
+  }
+  
+  /* Change background color of buttons on hover */
+ 
+  
+  /* Create an active/current tablink class */
+  .tab button.active {
+    background-color: #ccc;
+  }
+  
+  /* Style the tab content */
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+  }
