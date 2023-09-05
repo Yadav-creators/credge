@@ -360,3 +360,65 @@ h1.event-heading {
     background: #E2E5ED;
     padding: 4px 10px;
 }
+section.email-subscription {
+    background: #30BEAD;
+}
+
+h1.email-heading-main {
+    font-size: 32px;
+    color: white;
+}
+.d-flex.email-hesding-icon{
+    gap: 1rem;
+    width: max-content;
+}
+
+.layout-email-subscription   {
+    gap: 2rem;
+}
+input#email-subscriber::placeholder {
+    color: black;
+}
+
+input#email-subscriber {
+    font-size: 22px;
+    border-radius: 5px 5px 0px 0px;
+    background: #1BAA99;
+    border: none;
+    color: black !important;
+    padding: 8px 7rem 8px 12px;
+}
+
+input[type="submit"] {
+    color: white;
+    background: #FF7E84;
+    padding: 10px 2rem;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Inter';
+    border: none;
+    border-radius: 8px;
+}
+
+.logo-top-nav , .top-nav-button{
+    width: max-content;
+}
+
+.top-nav-button.d-flex {
+    gap: 2rem;
+}
+
+h3.m-0.become-a-mentor {
+    font-size: 18px;
+}
+
+button.sign-in-mentor {
+    color: white;
+    background: #FF7E84;
+    padding: 10px 1rem;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Inter';
+    border: none;
+    border-radius: 28px;
+}
