@@ -429,7 +429,97 @@ button.sign-in-mentor {
     margin-bottom: 1rem;
 }
 .certification-courses-badges{
-    background-image: url('./assets/certification-b-bg.png');
+    background-image: url('./assets/courses-bad-bg.png');
     background-size: initial;
     background-repeat: no-repeat;
+}
+
+
+.layouthero-banner-bs {
+    background-image: url(./assets/header-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 369px;
+}
+a.downloadcoursesbutton {
+    color: #FF7E84;
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a.downloadcoursesbutton span {
+    margin-left: 16px;
+}
+.course-page .event-card-item h5.card-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+.course-page .event-card-item p.card-text {
+   
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.course-page span.event-card-icon{
+    margin-right: 0;
+}
+
+h1.past-project-listing.text-left {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+
+.course-page p.our-offer {
+    color: #8b8b97;
+}
+
+
+.course-page-1 .our-experts-cards.row.gx-5.justify-content-evenly .card {
+    width: 31%;
+}
+
+.course-page-1 img.card-img-top {
+    max-width: 50px;
+
+
+}
+
+.course-page-1 .our-experts-cards .card-body {
+    background: transparent;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.course-page-1 .card-body.text-center {
+    padding: 0;
+}
+
+section.our-expert.course-page-1 .card {
+    padding: 3rem 3rem !important;
+    background-image: url(./assets/white-bg-new.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0 76px;
+}
+
+.course-page-1 p.card-text {
+    max-width: 88%;
+    margin: auto;
+}
+
+.course-page-1 h5.card-title {
+    margin-bottom: 1rem;
+}
+
+.course-page-1 p.card-text {
+    max-width: 88%;
+    margin: auto;
+    color: #7A7A89;
+    line-height: 1.6;
+}
+
+.course-page-1 .card-body.text-center {
+    padding-top: 1.5rem !important;
 }

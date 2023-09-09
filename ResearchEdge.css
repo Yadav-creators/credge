@@ -1,0 +1,185 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+caption {
+    font-family: 'Inter', sans-serif;
+}
+
+p,
+a {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.container-xxl.main-container-utk {
+    padding: 0 60px;
+}
+
+.main-container-utk .card-utk {
+    padding: 10px;
+    border: none;
+    display: flex !important;
+    justify-content: space-between;
+    align-items: self-start;
+    flex-direction: row;
+    border-radius: 12px;
+    border: 1px solid #EFF2F9;
+    background: #FFF;
+    box-shadow: 10px 15px 14px 0px rgba(71, 99, 125, 0.10), 3px 4px 5px 0px rgba(71, 99, 125, 0.11);
+}
+
+.main-container-utk .card.card-utk img.my-card-img-utk {
+    width: 100%;
+    max-width: 250px;
+}
+
+.main-container-utk .card-main {
+    padding: 20px 10px;
+}
+
+.main-container-utk .card-body-text {
+    padding: 8px 25px 10px 10px;
+}
+
+.main-container-utk .card-body.card-body-text p {
+    color: #000;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+
+.main-container-utk .first-headingutk {
+    color: #0C1327;
+    text-align: center;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+
+.main-container-utk .about-heading-utk {
+    color: #0C1327;
+    text-align: center;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.main-container-utk .about-program-list li,
+.main-container-utk .about-para-utk {
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.main-container-utk .about-text-main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    margin: auto;
+}
+
+.main-container-utk .research-solar-program ul li {
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+    padding: 10px 0px;
+}
+
+.main-container-utk .new-program ul li {
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+    padding: 2px 0px;
+}
+
+.main-container-utk .Disciplines-text p {
+    padding: 0px;
+    margin: 0px;
+    color: #000;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+
+
+.main-container-utk .new-program p{
+    color: #000;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+
+.main-container-utk .new-program img.rounded {
+    width: 100%;
+}
+
+
+@media screen and (max-width:768px){
+    .main-container-utk .card.card-utk img.my-card-img-utk {
+        width: 100%;
+        max-width: 250px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    .main-container-utk .card-utk {
+        padding: 10px;
+        border: none;
+        display: flex !important;
+        justify-content: space-between;
+        align-items: self-start;
+        flex-direction: column;
+        border-radius: 12px;
+        border: 1px solid #EFF2F9;
+        background: #FFF;
+        box-shadow: 10px 15px 14px 0px rgba(71, 99, 125, 0.10), 3px 4px 5px 0px rgba(71, 99, 125, 0.11);
+    }
+    .main-container-utk .about-text-main {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        margin: auto;
+    }
+    .main-container-utk .new-program img.rounded {
+        width: 100%;
+    }
+    .main-container-utk .first-headingutk {
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: capitalize;
+    }
+    
+    .main-container-utk .about-heading-utk {
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: capitalize;
+    }
+}
