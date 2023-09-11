@@ -523,3 +523,93 @@ section.our-expert.course-page-1 .card {
 .course-page-1 .card-body.text-center {
     padding-top: 1.5rem !important;
 }
+
+
+.main-item-links-footer ul {
+    padding: 0;
+}
+.main-item-links-footer ul li {
+    list-style: none;
+}
+a.social-midia-link-footer {
+    text-decoration: none;
+    height: 50px;
+    display: block;
+}
+.social-media-links-footer {
+    display: flex;
+    gap: 1rem;
+}
+
+.link-list h3 {
+    font-size: 20px;
+    font-weight: 600;
+}
+section.footer.pt-5.pb-5 {
+    background: #0C1427;
+}
+
+section.footer.pt-5.pb-5 p, section.footer.pt-5.pb-5 a , section.footer.pt-5.pb-5 h3 {
+    color: white;
+}
+
+.main-item-links-footer ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.7;
+}
+
+.footer-content-bs {
+    max-width: 70%;
+}
+
+.text-and-subscription-form p {
+    max-width: 70%;
+}
+
+input.email-subscrip {
+    padding: 0.7rem;
+    padding-right: 5rem;
+    border-radius: 10px;
+    border: none;
+}
+
+.text-and-subscription-form input[type="submit"] {
+    padding-right: 4rem;
+    text-align: center;
+    padding-left: 4rem;
+}
+
+form.subscription-form input {
+    width: max-content;
+}
+
+
+
+.text-and-subscription-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+form.subscription-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-left: -18px;
+}
+
+a.social-midia-link-footer svg {
+    max-width: 50px;
+}
+
+svg {
+    max-width: 100%;
+}
+
+.offcanvas-body {
+    display: none !important;
+}

@@ -1,0 +1,176 @@
+@media screen and (max-width: 575px) {
+    .top-nav-button.d-flex {
+        gap: 0;
+    }
+    h3.m-0.become-a-mentor {
+        display: none;
+    }
+
+    button.sign-in-mentor {
+        color: white;
+        background: #FF7E84;
+        padding: 10px 2rem;
+        text-decoration: none;
+        font-size: 18px;
+        font-family: 'Inter';
+        border: none;
+        border-radius: 16px;
+    }
+
+    button.navbar-toggler.collapsed {
+        border-color: #FF7E84;
+    }
+
+    h1.hero-banner-main-heading {
+        font-size: 38px;
+        font-weight: bold;
+
+    }
+
+    h1.hero-banner-main-heading br {
+        display: none;
+    }
+
+    svg{
+        height: auto;
+    }
+
+    .sub-heading-hero {
+        font-size: 16px;
+        font-weight: 500;
+        text-transform: capitalize;
+        margin: 1rem 0;
+    }
+
+    .layouthero-banner .container-xxl:last-child {
+        min-height: 400px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .event-card-item {
+        width: 90%;
+    }
+
+    .events-card-items {
+      
+        justify-content: center !important;
+    }
+
+    .top-popular-courses-heading.text-center {
+        max-width: 90%;
+        margin: auto;
+    }
+
+    a.hero-cta-button {
+        margin-top: 1rem;
+    }
+
+    .our-offer-card {
+        max-width: 90%;
+    }
+
+    .our-offer-layout.container-xxl .row {
+        gap: 3rem;
+    }
+
+    p.our-offer {
+        text-align: center;
+    }
+
+    span.diff-heading-color SVG {
+        max-width: 48%;
+    }
+    h1.university-section-heading.text-center {
+        padding-bottom: 1rem;
+    }
+
+    h1.university-section-heading.text-center svg {
+        max-width: 90%;
+    }
+
+    .our-experts-cards.row.gx-sm-5.justify-content-evenly .card {
+        width: 80%;
+        margin-bottom: 2rem;
+    }
+
+    .aproach-counting-items {
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+
+    input[type="submit"] {
+        font-size: 18px;
+        width: 93%;
+    }
+    input#email-subscriber {
+        padding: 8px 4rem 8px 12px;
+    }
+ 
+    input#email-subscriber {
+        padding: 8px 4rem 8px 12px;
+        margin-bottom: 1rem;
+        border-radius: 8px;
+    }
+    input#email-subscriber::placeholder {
+        font-size: 19px;
+    }
+    h1.email-heading-main {
+        font-size: 21px;
+        color: white;
+    }
+    .university-logos-container-bs .img {
+        width: 50%;
+    }
+    .university-logos-container-bs .img {
+        width: 50%;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+    .university-logos-container-bs {
+        flex-wrap: wrap;
+        margin-top: 2rem;
+    }
+
+    a.nav-link {
+        margin: 0px 8px;
+    }
+
+    .offcanvas-body {
+        display: block !important;
+    }
+    button.btn-close.btn-close-white {
+        filter: none;
+    }
+
+    h5#offcanvasDarkNavbarLabel {
+        opacity: 0;
+    }
+
+    .offcanvas-body {
+
+        background: white;
+    }
+
+    .offcanvas-header {
+        background: white;
+    }
+
+    .navbar-toggler:focus {
+      
+        box-shadow: none !important;
+    }
+
+    .what-we-do-offer {
+        background-size: cover;
+      
+    }
+    .university-logos-container .img {
+      
+        width: 33%;
+       
+        margin-top: 2rem;
+    }
+
+  }
