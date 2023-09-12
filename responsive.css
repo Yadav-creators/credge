@@ -173,4 +173,57 @@
         margin-top: 2rem;
     }
 
+    button.btn-close.btn-close-white {
+        margin-right: 1rem;
+    }
+    .our-offer-heading svg {
+        max-width: 70%;
+    }
+
+    p.our-offer {
+        margin-top: 1rem;
+    }
+
+    .our-offer-card-layout.row.justify-content-evenly.row-gap-4 {
+       
+        padding-left: 12px;
+    }
+    section.our-expert {
+        
+        padding-bottom: 0;
+    }
+
+    .education-layout.row.justify-content-between {
+        gap: 3rem;
+    }
+
+    section.our-education {
+        min-height: 660px;
+        
+        margin-bottom: 2rem;
+    }
+
+    .event-layout- {
+        
+        padding: 3rem 0;
+    }
+    .heading-and-tab-event.row.justify-content-between.align-items-center.mb-4 {
+        gap: 1rem;
+    }
+    .our-offer-card-layout.row.justify-content-evenly.row-gap-4 {
+       
+        justify-content: flex-start !important;
+    }
+    .heading-and-tab-event.row.justify-content-between.align-items-center.mb-4 {
+       
+        justify-content: center !important;
+    }
+
+    .education-content.col-md-5.col-sm-12 p.our-offer {
+        text-align: left;
+    }
+
+    .our-offer-layout.container-xxl p.our-offer {
+        text-align: left;
+    }
   }

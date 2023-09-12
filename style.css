@@ -613,3 +613,7 @@ svg {
 .offcanvas-body {
     display: none !important;
 }
+
+.our-experts-cards.row.gx-sm-5.justify-content-evenly .card {
+    width: 23%;
+}
