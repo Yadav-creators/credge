@@ -248,4 +248,8 @@
         width: 100%;
         display: block;
     }
+
+    button.btn-close.btn-close-white {
+        margin-right: 3rem;
+    }
   }
