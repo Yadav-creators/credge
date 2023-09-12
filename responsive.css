@@ -226,4 +226,26 @@
     .our-offer-layout.container-xxl p.our-offer {
         text-align: left;
     }
+
+    .text-and-subscription-form {
+      
+        align-items: flex-start;
+    }
+    form.subscription-form {
+      
+        margin-left: 0;
+    }
+
+    .social-media-links-footer {
+       
+        margin-bottom: 2rem;
+    }
+    
+    .first-link-list.link-list.col-md-6.col-sm-12 {
+        margin-bottom: 1rem;
+    }
+    a.out-offer-cta {
+        width: 100%;
+        display: block;
+    }
   }
