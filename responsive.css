@@ -2,6 +2,7 @@
     .top-nav-button.d-flex {
         gap: 0;
     }
+
     h3.m-0.become-a-mentor {
         display: none;
     }
@@ -31,7 +32,7 @@
         display: none;
     }
 
-    svg{
+    svg {
         height: auto;
     }
 
@@ -54,7 +55,7 @@
     }
 
     .events-card-items {
-      
+
         justify-content: center !important;
     }
 
@@ -82,6 +83,7 @@
     span.diff-heading-color SVG {
         max-width: 48%;
     }
+
     h1.university-section-heading.text-center {
         padding-bottom: 1rem;
     }
@@ -104,30 +106,36 @@
         font-size: 18px;
         width: 93%;
     }
+
     input#email-subscriber {
         padding: 8px 4rem 8px 12px;
     }
- 
+
     input#email-subscriber {
         padding: 8px 4rem 8px 12px;
         margin-bottom: 1rem;
         border-radius: 8px;
     }
+
     input#email-subscriber::placeholder {
         font-size: 19px;
     }
+
     h1.email-heading-main {
         font-size: 21px;
         color: white;
     }
+
     .university-logos-container-bs .img {
         width: 50%;
     }
+
     .university-logos-container-bs .img {
         width: 50%;
         text-align: center;
         margin-bottom: 2rem;
     }
+
     .university-logos-container-bs {
         flex-wrap: wrap;
         margin-top: 2rem;
@@ -140,6 +148,7 @@
     .offcanvas-body {
         display: block !important;
     }
+
     button.btn-close.btn-close-white {
         filter: none;
     }
@@ -158,24 +167,26 @@
     }
 
     .navbar-toggler:focus {
-      
+
         box-shadow: none !important;
     }
 
     .what-we-do-offer {
         background-size: cover;
-      
+
     }
+
     .university-logos-container .img {
-      
+
         width: 33%;
-       
+
         margin-top: 2rem;
     }
 
     button.btn-close.btn-close-white {
         margin-right: 1rem;
     }
+
     .our-offer-heading svg {
         max-width: 70%;
     }
@@ -185,11 +196,12 @@
     }
 
     .our-offer-card-layout.row.justify-content-evenly.row-gap-4 {
-       
+
         padding-left: 12px;
     }
+
     section.our-expert {
-        
+
         padding-bottom: 0;
     }
 
@@ -199,23 +211,26 @@
 
     section.our-education {
         min-height: 660px;
-        
+
         margin-bottom: 2rem;
     }
 
     .event-layout- {
-        
+
         padding: 3rem 0;
     }
+
     .heading-and-tab-event.row.justify-content-between.align-items-center.mb-4 {
         gap: 1rem;
     }
+
     .our-offer-card-layout.row.justify-content-evenly.row-gap-4 {
-       
+
         justify-content: flex-start !important;
     }
+
     .heading-and-tab-event.row.justify-content-between.align-items-center.mb-4 {
-       
+
         justify-content: center !important;
     }
 
@@ -228,22 +243,24 @@
     }
 
     .text-and-subscription-form {
-      
+
         align-items: flex-start;
     }
+
     form.subscription-form {
-      
+
         margin-left: 0;
     }
 
     .social-media-links-footer {
-       
+
         margin-bottom: 2rem;
     }
-    
+
     .first-link-list.link-list.col-md-6.col-sm-12 {
         margin-bottom: 1rem;
     }
+
     a.out-offer-cta {
         width: 100%;
         display: block;
@@ -252,4 +269,97 @@
     button.btn-close.btn-close-white {
         margin-right: 3rem;
     }
-  }
+
+    .container-xxl.main-container-ud {
+        padding: 0 30px;
+    }
+
+    .Black-Bg-text {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .heading-section {
+        font-size: 38px;
+    }
+
+    .internship-feilds-main .columm-utk-feilds p {
+        font-size: 20px;
+        line-height: 40px;
+    }
+
+    .row.pt-3.pb-3.internship-feilds-main {
+        padding: 0px !important;
+    }
+
+    .col-lg-6.pt-5.text-partners {
+        padding: 0px !important;
+    }
+
+    h1.text-center.pt-5.pb-5.m-0.heading-section {
+        padding: 0px !important;
+    }
+
+    .col-lg-6.text-part-howitworks {
+        padding-top: 34px;
+    }
+
+    .number {
+        padding: 9px 21px;
+        margin-top: -10px;
+    }
+
+    .item-howitworks h3 {
+        font-size: 20px;
+        margin: 2px;
+    }
+
+    .item-howitworks p {
+        font-size: 15px;
+        line-height: 20px;
+        margin: 5px;
+    }
+
+    .benifits-new-section .card1.card img {
+        width: 55px;
+        max-width: 55px;
+    }
+
+    .card1.card.align-items-center h5.card-title {
+        font-size: 18px;
+    }
+
+    .row.pt-5.benifits-new-section {
+        padding: 0px !important;
+    }
+
+    .text-part-howitworks:after {
+        width: 30%;
+    }
+
+    .intern-partner-paragraph {
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .apply-button-partner {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .main-container-utk .card.card-utk img.my-card-img-utk {
+        width: 100%;
+        max-width: 250px;
+        margin: 0 auto;
+        padding: 20px 0px;
+    }
+
+    .main-container-utk .card-body.card-body-text p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .main-container-utk .card-body-text {
+        padding: 10px 10px 10px 10px;
+    }
+}

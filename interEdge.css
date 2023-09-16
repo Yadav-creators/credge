@@ -99,6 +99,10 @@ a {
     text-transform: capitalize;
 }
 
+.col-lg-6.pt-5.text-partners{
+    padding-top: 40px;
+}
+
 .black-bg-text-main {
     background: #0C1427;
 }
@@ -253,6 +257,7 @@ button.btn.new-apply-btn {
     background: url(./images/Line\ 26.svg);
     bottom: 0px;
     left: 42px;
+    top: 25px;
     background-color: transparent;
     z-index: -1;
     background-repeat: no-repeat;
@@ -325,4 +330,12 @@ button.btn.new-apply-btn {
     font-weight: 600;
     line-height: normal;
     text-transform: capitalize;
+}
+
+.row.new-cardssss {
+    display: flex;
+    justify-content: center;
+}
+.col-lg-4utk {
+    width: 33%;
 }
